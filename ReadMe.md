@@ -1,5 +1,13 @@
-# 💫 About Me:
-# Hi, I'm Muhammad Zeeshan 👋<br><br>### Product Designer & Developer | AI-Powered Innovator<br><br>I'm a passionate **Product Designer and Developer** focused on building modern digital experiences, intelligent applications, and next-generation web solutions.<br><br>I enjoy combining **design, development, and artificial intelligence** to transform ideas into functional, visually engaging, and user-focused products.<br><br>### 🚀 What I'm Working On<br>- 🎨 Designing intuitive UI/UX and modern digital products.<br>- 💻 Building responsive websites and interactive frontend experiences.<br>- 🌐 Exploring 3D web development and immersive interfaces.<br>- 🤖 Learning AI/ML, Python, and open-source AI technologies.<br>- 🧠 Experimenting with AI-powered development tools and automation.<br>- ⚡ Solving problems and continuously exploring emerging technologies.<br><br>### 🛠️ Tech & Creative Stack<br>- **Design:** Figma, UI/UX Design, Prototyping<br>- **Frontend:** HTML, CSS, JavaScript<br>- **Programming:** Python, SQL<br>- **AI & Development:** Generative AI, Claude, AI-assisted coding, Open-Source LLMs<br>- **Tools:** Git, GitHub, VS Code<br><br>### 🎯 My Vision<br>To bridge the gap between creativity, technology, and intelligence by building meaningful digital products that deliver exceptional experiences.<br><br>### 🤝 Let's Connect<br>I'm always interested in collaborating on innovative projects, exploring new technologies, and connecting with creative minds.<br><br>**Design. Develop. Innovate. Repeat.**
+👋 Hi, I'm Muhammad Zeeshan!
+
+🎨 Product Designer & Developer
+💻 Frontend & Web Development
+🌐 3D & Interactive Web Experiences
+🤖 Exploring AI, ML & Generative AI
+🐍 Python & Open-Source AI
+⚡ AI-Powered Development & Automation
+🛠️ Figma, Git, GitHub & VS Code
+🚀 Turning Creative Ideas into Digital Products
 
 
 ## 🌐 Socials:
